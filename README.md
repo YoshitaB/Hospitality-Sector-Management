@@ -1,6 +1,6 @@
 # Hospitality-Sector-Management
 
-**Hospitality Sector Revenue Optimization**
+**Hospitality Sector Revenue Optimization** [View Deck](https://drive.google.com/file/d/17NpS4Py2a10JcKdYzH7zlPAXZA_5QCgw/view?usp=sharing)
 
 **Optimizing Revenue Leakage & Profitability in the Hospitality Sector**
 
